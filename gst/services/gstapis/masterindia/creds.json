@@ -1,0 +1,121 @@
+[
+    {
+		"username":      "Credentials3@indiamart.com",
+		"password":      "Indiamart3@123",
+		"client_id":     "fPDwunwKcasiWxWbDK",
+		"client_secret": "HidLFvlAwk0SfemISenmMtoP",
+		"grant_type":    "password"
+	},
+
+    {
+		"username":      "Credentials4@indiamart.com",
+		"password":      "Indiamart4@123",
+		"client_id":     "PyAbrpmyImVPJXglcX",
+		"client_secret": "93SsSh78ZpOVHhmYJyedAIJz",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "Credentials5@indiamart.com",
+		"password":      "Indiamart@123",
+		"client_id":     "JRTFWlDwqbWipzLAOs",
+		"client_secret": "hJki7yZ3QNkmXG6J2YX0mefw",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "credentials6@indiamart.com",
+		"password":      "Cred6@123",
+		"client_id":     "RZlPkGFZhlafuHDnbu",
+		"client_secret": "xRCnv8k4Xyq2JnIDkWZ4fHDV",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "credentials8@indiamart.com",
+		"password":      "Cred8@123",
+		"client_id":     "dGzavdFhnNxAFYkIVY",
+		"client_secret": "uJxMcSwA94tzbX3vERHhvm1W",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "amrita@indiamart.com",
+		"password":      "Amrita@123",
+		"client_id":     "CembgvxJXHJzaXxPoP",
+		"client_secret": "TIa5mAsga3AJtqVfsAC3F5Ay",
+		"grant_type":    "password"
+	},
+
+    {
+		"username":      "sachin63596@indiamart.com",
+		"password":      "Sachin@123",
+		"client_id":     "YXAMKIxwcWntMmImRF",
+		"client_secret": "pnU5yh0enmKGB6OLgdV23070",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "kumar.rahul2@indiamart.com",
+		"password":      "Rahul@123",
+		"client_id":     "oqxejOmsbPlMDKmkIV",
+		"client_secret": "uebAHUPSZOvRJx9kcQsAfaZu",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "puneetkochale@indiamart.com",
+		"password":      "Indiamart@123",
+		"client_id":     "YRCFiWjBmhUkRvvdqt",
+		"client_secret": "va7YMU7StANSZH8qMAcoPP18",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "vishnu.kumar@indiamart.com",
+		"password":      "Vishnu@123",
+		"client_id":     "SBnKDsjovFbULErSAI",
+		"client_secret": "7cMtAXtOyomyrc7friRfr2l7",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "amisha.tomar@indiamart.com",
+		"password":      "Amisha@123",
+		"client_id":     "AXuoVtlEXuSDKHhieY",
+		"client_secret": "oFcd86belE1ZdvWAmeIGhExO",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "dharmesh.meena@indiamart.com",
+		"password":      "Dharmesh@123",
+		"client_id":     "IpoCOmTZtOjfzIovWX",
+		"client_secret": "PVgib5SlYk8wDskQRKmHLKxo",
+		"grant_type":    "password"
+	},
+
+	{
+		"username":      "puneetsingh@indiamart.com",
+		"password":      "Puneet@123",
+		"client_id":     "QLlBzTUOzMpSGXwbMK",
+		"client_secret": "sEQx7MXAzMbjfLdwExLOCEpF",
+		"grant_type":    "password"
+	},
+	
+	{
+		"username":      "vivek.arya@indiamart.com",
+		"password":      "Vivek@123",
+		"client_id":     "tMdsdkRkrgOlcaeUNl",
+		"client_secret": "NiKHivn7P2pJqnabG4Swx4Fq",
+		"grant_type":    "password"
+	},
+	
+	{
+		"username": "Credentials15@indiamart.com",
+		"password" : "India@123",
+		"client_id":"pwabdpXGWYYDsQlDZD",
+		"client_secret":"JAV5Rgw4UdT5AOFdyBzkObG0",
+		"grant_type":"password"
+	}
+]
